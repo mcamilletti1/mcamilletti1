@@ -7,4 +7,3 @@
 - 📫 How to reach me: LinkedIn: www.linkedin.com/in/margaretcamilletti
 - 😄 Pronouns: She/they
 - ⚡ Fun fact: I am vegan, I love to tap dance, and I love standup comedy!
--->
