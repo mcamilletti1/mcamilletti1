@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Margaret
 
 - 🔭 I’m currently working on an IOS App called WalkSafeNYC
-- 🌱 I’m currently learning Angular and TypeScript
+- 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on projects related to sustainability and the environment
 - 💬 Ask me about my passion for merging creativity and tech
 - 📫 How to reach me: LinkedIn: www.linkedin.com/in/margaretcamilletti
